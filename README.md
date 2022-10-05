@@ -8,4 +8,4 @@ https://stackoverflow.com/questions/31036971/how-to-perform-image-segmentation-o
 
 https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_segmentations.html
 
-https://docs.digitalearthafrica.org/en/latest/sandbox/notebooks/Frequently_used_code/Image_segmentation.html
+https://medium.com/@mistryvraj3198/semantic-segmentation-satellite-images-95ce75144809
